@@ -1,4 +1,5 @@
 import './App.css';
+import Body from './Body';
 import Header from './Header';
 /*
 spreap in prop
@@ -19,7 +20,7 @@ function App() {
     <div className="App">
       <div className='width400px marginA br15 pad9'>
         <Header />
-        
+        <Body/>
       </div>
     </div>
   );

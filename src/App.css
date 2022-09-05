@@ -1,5 +1,7 @@
 .App {
+  padding: 20px;
   text-align: center;
+  color: white;
 }
 
 .App-logo {
@@ -19,12 +21,14 @@
 }
 
 .bg-red {
-  background-color: rgba(192, 11, 11, 0.822);
-  color: white;
+  background-color: rgba(3, 169, 199, 0.822);
 }
 
 .width400px {
-  width: 600px;
+  width: 450px;
+  height: 550px;
+  background-color: rgb(52, 61, 58);
+  box-shadow: 0 0 3px 3px rgba(9, 168, 168, 0.993);
 }
 .margin7{
   margin: 7px;
