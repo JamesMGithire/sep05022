@@ -98,6 +98,9 @@ h2 {
   padding-top: 6px;
 }
 
+.prl5{
+  padding-right: 5px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
