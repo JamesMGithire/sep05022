@@ -9,16 +9,16 @@ export default [
     },
     {
         id: 2,
-        country: "Japan",
-        location: "Mount Fuji",
+        country: "Austria",
+        location: "Sydney Opera House",
         date: "Some time",
         content: "I liked this place",
         image:"./buddha-location.jpg"
     },
     {
         id: 3,
-        country: "Japan",
-        location: "Mount Fuji",
+        country: "Norway",
+        location: "Geirangerfjord",
         date: "Some time",
         content: "I liked this place",
         image:"./buddha-location.jpg"
