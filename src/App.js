@@ -16,6 +16,7 @@ if(props.openSpots === 0){
 
 
 function App() {
+  console.log(<Body/>)
   return (
     <div className="App">
       <div className='width400px marginA br15 pad9'>
